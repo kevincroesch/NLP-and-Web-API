@@ -4,16 +4,17 @@ For project 3, our goal is two-fold:
 
 Using Reddit's API, you'll collect posts from two subreddits of your choosing.
 You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
-The Data Science Process
+
+##The Data Science Process
 
 ### Problem Statement
 
-> Is it clear what the goal of the project is?
-> What type of model will be developed?
-> How will success be evaluated?
-> Is the scope of the project appropriate?
-> Is it clear who cares about this or why this is important to investigate?
-> Does the student consider the audience and the primary and secondary stakeholders?
+> - Is it clear what the goal of the project is?
+> - What type of model will be developed?
+> - How will success be evaluated?
+> - Is the scope of the project appropriate?
+> - Is it clear who cares about this or why this is important to investigate?
+> - Does the student consider the audience and the primary and secondary stakeholders?
 
 ### Data Collection
 

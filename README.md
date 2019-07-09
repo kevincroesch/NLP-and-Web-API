@@ -6,7 +6,7 @@ Using Reddit's API, you'll collect posts from two subreddits of your choosing.
 You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
 The Data Science Process
 
-# Problem Statement
+### Problem Statement
 
 > Is it clear what the goal of the project is?
 > What type of model will be developed?
@@ -15,7 +15,7 @@ The Data Science Process
 > Is it clear who cares about this or why this is important to investigate?
 > Does the student consider the audience and the primary and secondary stakeholders?
 
-# Data Collection
+### Data Collection
 
 > Was enough data gathered to generate a significant result?
 Was data collected that was useful and relevant to the project?

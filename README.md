@@ -1,4 +1,4 @@
-# Project_3
+# API Scraping and NLP Processing
 Project 3: Web APIs &amp; Classification
 For project 3, our goal is two-fold:
 

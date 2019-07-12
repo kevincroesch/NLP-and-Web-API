@@ -9,28 +9,25 @@ You'll then use NLP to train a classifier on which subreddit a given post came f
 
 ### Problem Statement
 
-> - Is it clear what the goal of the project is?
-> - What type of model will be developed?
-> - How will success be evaluated?
-> - Is the scope of the project appropriate?
-> - Is it clear who cares about this or why this is important to investigate?
-> - Does the student consider the audience and the primary and secondary stakeholders?
+> - Are we able to create a classifier which can correctly predicxt which subreddit a given post came from
 
 ### Data Collection
 
-> - Was enough data gathered to generate a significant result?
-> - Was data collected that was useful and relevant to the project?
-> - Was data collection and storage optimized through custom functions, pipelines, and/or automation?
-> - Was thought given to the server receiving the requests such as considering number of requests per second?
+> - https://www.reddit.com/r/crossfit.json
+
+> - https://www.reddit.com/r/running/.json
 
 ### Data Cleaning and EDA
 
-> - Are missing values imputed/handled appropriately?
-> - Are distributions examined and described?
-> - Are outliers identified and addressed?
-> - Are appropriate summary statistics provided?
-> - Are steps taken during data cleaning and EDA framed appropriately?
-> - Does the student address whether or not they are likely to be able to answer their problem statement with the provided > - > - data given what they've discovered during EDA?
+> - Located the text from each post
+
+> - Created a data frame with all posts
+
+> - Created a new column to identify each post as NOT a CrossFit post
+
+> - Cleaned up each post by removing line breaks and extra spaces
+
+> - Removed any post that was “ ‘   ’  “
 
 ### Preprocessing and Modeling
 

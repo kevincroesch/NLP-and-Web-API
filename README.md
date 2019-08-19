@@ -1,6 +1,6 @@
 # API Scraping and NLP Processing
-Project 3: Web APIs &amp; Classification
-For project 3, our goal is two-fold:
+NLP: Web APIs &amp; Classification
+The goal is two-fold:
 
 Using Reddit's API, we'll collect posts from two subreddits of your choosing.
 You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
